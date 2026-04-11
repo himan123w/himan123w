@@ -16,24 +16,46 @@
 
 ---
 
-## 🔥 About Me
+<!-- 🔥 PROFILE BANNER -->
 
-* 🎓 B.Tech CSE (Cloud Computing + Machine Learning)
-* 💻 Full Stack Developer (React, Node.js, MongoDB)
-* 🚀 Building Job Board + Property Platform Startup
-* 📈 Passionate about SEO & Digital Growth
-* ⚡ Mission: Build a ₹100 Crore Tech Startup
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Himanshu%20Singh&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
+<!-- 🔥 TYPING ANIMATION -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Startup+Builder;Machine+Learning+Enthusiast;Building+₹100+Crore+Startup" />
+</p>
+
+<!-- 🔥 VISITOR COUNTER -->
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=himan123w&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 👋 About Me
+
+Hi, I'm **Himanshu Singh** 🚀
+
+* 🎓 B.Tech CSE (Cloud + ML)
+* 💻 MERN Stack Developer
+* 🤖 Machine Learning Enthusiast
+* 🚀 Building Startup-Level Projects
+* 📈 Interested in SEO & Growth
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rajpoot-himanshu-singh-0130bb29a/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://www.linkedin.com/in/rajpoot-himanshu-singh-0130bb29a/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://www.instagram.com/himanshu_sin" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40" />
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
@@ -42,7 +64,14 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,c,git,github" />
+
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/C-orange?style=for-the-badge&logo=c"/>
+
 </p>
 
 ---
@@ -51,100 +80,87 @@
 
 ### 🔹 Job Board Platform
 
-* Full stack job portal with authentication & dashboards
-* Smart job filtering & resume upload
+* Full Stack Job Portal (React + Node + MongoDB)
+* Authentication + Dashboard + Filters
 
 ### 🔹 Financial Fraud Detection
 
-* Machine learning model to detect fraud transactions
-* Data analysis + prediction system
+* Machine Learning Model
+* Python + Data Analysis
 
 ### 🔹 Medicine Recommendation System
 
-* Suggest medicines based on symptoms
-* Built using logic + basic AI approach
+* Suggest medicines using logic-based system
 
 ---
 
-## 🌍 Live Projects & Portfolio
-
-* 🔗 Coming Soon: Personal Portfolio Website (Apple-level UI)
-* 🔗 Live Startup Projects (in progress)
-
----
-
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=himan123w&show_icons=true&theme=tokyonight&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api?username=himan123w&show_icons=true&theme=radical"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himan123w&theme=tokyonight&border_radius=10" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himan123w&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himan123w&theme=radical"/>
 </p>
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=himan123w&theme=tokyonight&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=himan123w&theme=radical"/>
 </p>
 
 ---
 
-## 🎯 What I'm Building Next
+## 📊 Contribution Graph
 
-* 🔥 Animated Portfolio Website (Apple-level UI/UX)
-* 📊 Live Project Dashboards (Real-time data)
-* 🧠 AI-powered features in web apps
-* 🌐 Scalable Startup Architecture
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himan123w&theme=react-dark"/>
+</p>
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* 🔥 Building Animated Portfolio Website (Apple-level UI)
+* 📊 Creating Live Project Dashboards
+* 🧠 Learning System Design & Scaling
 
 ---
 
 ## 🧠 Recruiter Section
 
-✔️ Strong in Full Stack Development
-✔️ Hands-on with Real Projects
-✔️ Startup Mindset & Problem Solver
-✔️ Quick Learner & Consistent Builder
+✔️ Full Stack Developer (MERN)
+✔️ Real-world project experience
+✔️ Startup mindset
+✔️ Fast learner
 
 📩 Open for:
 
 * Internships
-* Freelance Projects
-* Startup Collaboration
+* Freelance
+* Startup collaborations
 
 ---
 
 ## ⚡ Fun Fact
 
-> I don’t just write code, I build products that can scale 🚀
+> I don’t just code, I build products 🚀
 
 ---
 
-## 💡 Quote
+<!-- 🔥 FOOTER -->
 
-> "Discipline + Code + Execution = Startup Success 💯"
-
-
-
-
-<!--
-**himan123w/himan123w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+</p>
